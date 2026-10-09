@@ -4,7 +4,7 @@
 
 Companion volume to [A Working Glossary of Making, from Analogue to Digital](https://adpchrgruber.github.io/adp_adv_26_glossary/), growing out of its §8 · Artificial Intelligence & Data.
 
-**Live page:** https://adpchrgruber.github.io/adp_adv_ai_glossary/
+**Live page:** [https://adpchrgruber.github.io/adp_adv_ai_glossary/](https://adpchrgruber.github.io/adp_adv_AI_glossary/)
 
 ---
 
